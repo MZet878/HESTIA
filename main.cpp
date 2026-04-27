@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
+using namespace st;
 
 // Function to calculate Function Point
 void calfp(int frates[][3], int fac_rate)
